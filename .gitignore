@@ -1,8 +1,9 @@
 .cache
 .idea
 *.pth
-cus_*
-new_*
-mini_
+cus_data
+mini_20meta_dataset
+new_mini_20meta_dataset
 datasets/
 .DS_Store
+*.pyc
